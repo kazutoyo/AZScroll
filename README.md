@@ -15,3 +15,4 @@ Features
 ### AZListView
 1. Reusable rows so it has good performance
 2. Vaiable height for every row
+3. Reusable identifier for muiltiple style of rows in single AZListView
